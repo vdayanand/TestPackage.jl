@@ -1,0 +1,13 @@
+name = "TestPackage"
+uuid = "b56a3c94-edt8-11e9-397b-0949cb84a870"
+authors = ["Unknown"]
+version = "0.1.2"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

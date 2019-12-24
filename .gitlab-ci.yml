@@ -1,0 +1,3 @@
+test:
+  script:
+    - cd ${CI_PROJECT_DIR} && julia --project -e 'using Pkg; Pkg.test()'

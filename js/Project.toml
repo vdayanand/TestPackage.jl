@@ -1,0 +1,4 @@
+name = "js"
+uuid = "b56a3c94-edb8-11e9-397b-0949cb84a870"
+authors = ["vdayanand <venkatesh@juliacomputing.com>"]
+version = "0.1.0"
